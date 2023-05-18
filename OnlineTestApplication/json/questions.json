@@ -1,0 +1,44 @@
+[
+  {
+    "question": "What country has the highest life expectancy?",
+    "choice1": "Hong Kong",
+    "choice2": "Saudi Arabia",
+    "choice3": "US",
+    "choice4": "India",
+    "answer": 1
+  },
+  {
+    "question": "What company was initially known as \"Blue Ribbon Sports\"?",
+    "choice1": "Reebok",
+    "choice2": "Puma",
+    "choice3": "Nike",
+    "choice4": "Adidas",
+    "answer": 3
+  },
+  {
+    "question": "How many time zones are there in Russia?",
+    "choice1": "10",
+    "choice2": "7",
+    "choice3": "12",
+    "choice4": "11",
+    "answer": 4
+  },
+  {
+    "question": "When did they open the London underground?",
+    "choice1": "1947",
+    "choice2": "1863",
+    "choice3": "1883",
+    "choice4": "1920",
+    "answer": 2
+  },
+  
+  {
+    "question": "Which is the biggest continent in the world?",
+    "choice1": "North America",
+    "choice2": "Africa",
+    "choice3": "Australia",
+    "choice4": "Asia",
+    "answer": 4
+  }
+  
+]
